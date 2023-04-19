@@ -67,7 +67,6 @@
 
 
 
-
 # Bugs
 ## libnids
 1. Packets in ipv6 format are not supported
@@ -89,7 +88,7 @@
 <code>python print_tcp_session.py</code>
 =====================
 
-<b> 1. UDP-DNS协议详解 </b>
+<b> 1. UDP-DNS</b>
 
     pcap_file: data/pcap_pub/dns/netforensics_evidence05.pcap
 

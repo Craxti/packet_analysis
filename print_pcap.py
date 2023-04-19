@@ -485,7 +485,6 @@ class PCAPParse(object):
         for l in self.search_pcap(asset_port=asset_port, asset_ip=asset_ip):
             print (l)
 
-
 if __name__ == '__main__':
 
     import lib.mills as mills
