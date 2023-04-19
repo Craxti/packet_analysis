@@ -8,7 +8,7 @@ import time
 from collections import OrderedDict
 
 import dpkt
-from dpkt.compat import compat_ord
+from dpkt.compat import compat_ord, basestring
 
 import lib.logger as logger
 
@@ -484,6 +484,7 @@ class PCAPParse(object):
 
         for l in self.search_pcap(asset_port=asset_port, asset_ip=asset_ip):
             print (l)
+
 
 if __name__ == '__main__':
 
