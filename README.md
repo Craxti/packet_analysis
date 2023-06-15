@@ -54,7 +54,7 @@
    `git clone https://github.com/kbandla/dpkt.git`
 
 
-# Used
+# Usage
 * Read pcap package, print detailed icmp/tcp/udp protocol
 
 
