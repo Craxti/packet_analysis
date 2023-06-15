@@ -5,7 +5,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
+- [Bugs](#Bugs)
 - [Contributing](#contributing)
 - [License](#license)
 
