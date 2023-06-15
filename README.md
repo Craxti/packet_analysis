@@ -6,7 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Bugs](#Bugs)
-- [Contributing](#contributing)
+- [Example](#Example)
 - [License](#license)
 
 * Read pcap package, print detailed icmp/tcp/udp protocol
