@@ -39,7 +39,7 @@
 
    `git clone https://github.com/craxti/packet_analysis.git`
 
-   `cd pynids`
+   `cd packet_analysis`
 
    `sudo python setup.py build`
 
